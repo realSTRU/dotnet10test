@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KEGM4rBq/Fw=",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\dotnet\\10Test\\TestingVersionApi\\TestingVersionApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cesar Reynoso\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0-preview.6.25358.103\\microsoft.aspnetcore.openapi.10.0.0-preview.6.25358.103.nupkg.sha512",
+    "C:\\Users\\Cesar Reynoso\\.nuget\\packages\\microsoft.openapi\\2.0.0-preview.29\\microsoft.openapi.2.0.0-preview.29.nupkg.sha512",
+    "C:\\Users\\Cesar Reynoso\\.nuget\\packages\\scalar.aspnetcore\\2.6.1\\scalar.aspnetcore.2.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
